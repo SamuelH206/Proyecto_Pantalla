@@ -30,12 +30,9 @@ namespace Proyecto_Pantalla
 
         private void link_Registro_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Registro pantalla_Registro = new Registro();
-            pantalla_Registro.Show();
             this.Hide();
         }
 
-        private void btn_Ingresar_Click(object sender, EventArgs e)
         {
             P_Administrador p_admin = new P_Administrador();
             P_productos p_productos = new P_productos();

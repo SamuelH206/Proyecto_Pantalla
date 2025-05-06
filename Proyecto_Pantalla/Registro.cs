@@ -67,8 +67,6 @@ namespace Proyecto_Pantalla
                         p_almacenista.Show();
                         this.Hide();
                     }
-                }
-            }
             
                 
         }
