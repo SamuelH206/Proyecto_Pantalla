@@ -1,0 +1,15 @@
+C:\Users\henao\OneDrive\Documentos\Proyecto_Pantalla\Proyecto_Pantalla\obj\Debug\Proyecto_Pantalla.csproj.AssemblyReference.cache
+C:\Users\henao\OneDrive\Documentos\Proyecto_Pantalla\Proyecto_Pantalla\obj\Debug\Proyecto_Pantalla.Login.resources
+C:\Users\henao\OneDrive\Documentos\Proyecto_Pantalla\Proyecto_Pantalla\obj\Debug\Proyecto_Pantalla.Properties.Resources.resources
+C:\Users\henao\OneDrive\Documentos\Proyecto_Pantalla\Proyecto_Pantalla\obj\Debug\Proyecto_Pantalla.P_Administrador.resources
+C:\Users\henao\OneDrive\Documentos\Proyecto_Pantalla\Proyecto_Pantalla\obj\Debug\Proyecto_Pantalla.P_Almacen.resources
+C:\Users\henao\OneDrive\Documentos\Proyecto_Pantalla\Proyecto_Pantalla\obj\Debug\Proyecto_Pantalla.P_productos.resources
+C:\Users\henao\OneDrive\Documentos\Proyecto_Pantalla\Proyecto_Pantalla\obj\Debug\Proyecto_Pantalla.P_vendedor.resources
+C:\Users\henao\OneDrive\Documentos\Proyecto_Pantalla\Proyecto_Pantalla\obj\Debug\Proyecto_Pantalla.Registro.resources
+C:\Users\henao\OneDrive\Documentos\Proyecto_Pantalla\Proyecto_Pantalla\obj\Debug\Proyecto_Pantalla.csproj.GenerateResource.cache
+C:\Users\henao\OneDrive\Documentos\Proyecto_Pantalla\Proyecto_Pantalla\obj\Debug\Proyecto_Pantalla.csproj.CoreCompileInputs.cache
+C:\Users\henao\OneDrive\Documentos\Proyecto_Pantalla\Proyecto_Pantalla\bin\Debug\Proyecto_Pantalla.exe.config
+C:\Users\henao\OneDrive\Documentos\Proyecto_Pantalla\Proyecto_Pantalla\bin\Debug\Proyecto_Pantalla.exe
+C:\Users\henao\OneDrive\Documentos\Proyecto_Pantalla\Proyecto_Pantalla\bin\Debug\Proyecto_Pantalla.pdb
+C:\Users\henao\OneDrive\Documentos\Proyecto_Pantalla\Proyecto_Pantalla\obj\Debug\Proyecto_Pantalla.exe
+C:\Users\henao\OneDrive\Documentos\Proyecto_Pantalla\Proyecto_Pantalla\obj\Debug\Proyecto_Pantalla.pdb
